@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.stetho:stetho-timber:1.5.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/337fd7dcb571eff30de9ab75c2f0a5f7/stetho-timber-1.5.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d68a947bd1301c30fb38636c09c47ca6/stetho-timber-1.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d68a947bd1301c30fb38636c09c47ca6/stetho-timber-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d68a947bd1301c30fb38636c09c47ca6/stetho-timber-1.5.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-timber/1.5.1/164904b19f930d4c2a2b01d03e2911c401508428/stetho-timber-1.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-timber/1.5.1/af443bf21abfb4739b2734e132a5a855e8a0ebc1/stetho-timber-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

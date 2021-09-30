@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.maks:AndroidAudioRecorder:0.3.0-jasonette@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c96dec3ac3693849a82f9cf0204bb1b8/jetified-AndroidAudioRecorder-0.3.0-jasonette/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c96dec3ac3693849a82f9cf0204bb1b8/jetified-AndroidAudioRecorder-0.3.0-jasonette/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c96dec3ac3693849a82f9cf0204bb1b8/jetified-AndroidAudioRecorder-0.3.0-jasonette/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.maks/AndroidAudioRecorder/0.3.0-jasonette/f5153ab493762d139b54dcfc12aabf006535ce3b/AndroidAudioRecorder-0.3.0-jasonette-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

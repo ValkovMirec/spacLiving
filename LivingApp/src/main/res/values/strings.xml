@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LivingApp</string>
+    <string name="url">https://hook.integromat.com/nodj9tcpg8s4o4zij1o1qumloupjdok1</string>
+    <string name="launch">file://preload.json</string>
+</resources>

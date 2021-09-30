@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.eclipsesource.j2v8:j2v8:5.0.103@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0effb994985a08ce8ed5c267497b5642/j2v8-5.0.103/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca647b34599ae23cbfe9b173aedc7eb5/j2v8-5.0.103/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca647b34599ae23cbfe9b173aedc7eb5/j2v8-5.0.103/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca647b34599ae23cbfe9b173aedc7eb5/j2v8-5.0.103/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147242071363",
+    "project_id": "livingapponesignal",
+    "storage_bucket": "livingapponesignal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147242071363:android:ae15a30d91ac473f5e2bf6",
+        "android_client_info": {
+          "package_name": "com.bubbleapps.livingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147242071363-lvfkoi9dmnmu6fsrg62f9tkknjg73a5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwr2okWOtcJYoHfL9FO0wqcEc1bpZ19pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147242071363-lvfkoi9dmnmu6fsrg62f9tkknjg73a5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

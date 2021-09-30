@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.commonsware.cwac:cam2:0.7.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db01a59a6e1f6f71f3e9e9d43edc7f53/cam2-0.7.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db01a59a6e1f6f71f3e9e9d43edc7f53/cam2-0.7.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db01a59a6e1f6f71f3e9e9d43edc7f53/cam2-0.7.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.commonsware.cwac/cam2/0.7.4/ccc320d87792c477680e54a7ac046fdee47692ae/cam2-0.7.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.commonsware.cwac/cam2/0.7.4/5bd29a2c808066375966e3e0484cb74a3f155c4c/cam2-0.7.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
